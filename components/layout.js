@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Jacob Huber';
-export const siteTitle = 'Next.js Sample Website';
+const name = 'cobmin';
+export const siteTitle = 'cobmin';
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="cobmin's blog: content that hopefully helps."
         />
         <meta
           property="og:image"
@@ -68,6 +68,56 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+      <footer>
+      <Link href="https://discord.gg/gKxvUjRpvw">
+       <a>            
+         <Image
+           priority
+            src="/images/discordLogo.jpg"
+            className={utilStyles.borderCircle}
+            height={50}
+            width={50}
+           alt={name}
+          />
+       </a>  
+      </Link>
+      <Link href="https://github.com/cobmin">
+       <a>            
+         <Image
+           priority
+            src="/images/githubLogo.jpg"
+            className={utilStyles.borderCircle}
+            height={50}
+            width={50}
+           alt={name}
+          />
+       </a>  
+      </Link>
+      <Link href="https://twitch.com/cobmin">
+       <a>            
+         <Image
+           priority
+            src="/images/twitchLogo.jpg"
+            className={utilStyles.borderCircle}
+            height={50}
+            width={50}
+           alt={name}
+          />
+       </a>  
+      </Link>
+      <Link href="https://twitter.com/cobmin">
+       <a>            
+         <Image
+           priority
+            src="/images/twitterLogo.jpg"
+            className={utilStyles.borderCircle}
+            height={50}
+            width={50}
+           alt={name}
+          />
+       </a>  
+      </Link>
+      </footer>
     </div>
   );
 }
