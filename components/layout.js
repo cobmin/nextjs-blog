@@ -69,6 +69,7 @@ export default function Layout({ children, home }) {
         </div>
       )}
       <footer>
+      <p>Contact Me:</p>
       <Link href="https://discord.gg/gKxvUjRpvw">
        <a>            
          <Image

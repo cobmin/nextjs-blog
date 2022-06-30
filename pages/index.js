@@ -21,8 +21,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I will be creating and sharing content that has helped myself in hope that it will help you. 
-          You can find my posts below.
+        <p>Hey everyone, my name is Jacob Huber. I will be creating and sharing content that 
+          has helped me in hope that it will help you. You can find my posts below. 
         </p>
         <p>Good luck out there human.</p>
       </section>
