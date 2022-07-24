@@ -7,7 +7,7 @@ Over the past year I have been learning about the Ethereum blockchain and what i
 
 ## Why NFTs?
 
-The blockchain is a great tool that verifys ownership of digital assets. I want to use this to bridge the gap between online and real life by creating flower NFTs. Online the flowers will provide beauty and fun to peoples wallets. I also would like to put them in a game or create a game with them. To bridge the gap, I will invest all the funds raised from the flower NFTs to start an IRL flower shop. I chose a flower shop because I enjoy flowers, but more importantly my fiancé loves them. It is her dream to start a flower shop, and I would like to help her with that through the use of NFTs.
+The blockchain is a great tool that verifies ownership of digital assets. I want to use this to bridge the gap between online and real life by creating flower NFTs. Online the flowers will provide beauty and fun to people's wallets. I also would like to put them in a game or create a game with them. To bridge the gap, I will invest all the funds raised from the flower NFTs to start an IRL flower shop. I chose a flower shop because I enjoy flowers, but more importantly my fiancé loves them. It is her dream to start a flower shop, and I would like to help her with that using NFTs.
 
 ## The Flower NFTs
 
@@ -17,13 +17,13 @@ The blockchain is a great tool that verifys ownership of digital assets. I want 
 Above is my First Flower NFT and I am giving it away. Donations are welcome but not required. To receive one, please read and fill out this [form](https://forms.office.com/r/HvjDR9b9qD).
 
 ![Alt Text](/images/BeardedIris.gif)
-*Beared Iris*
+*Bearded Iris*
 
 I created the Bearded Iris from a photo that I took at the Missouri Botanical Gardens. The lady and I try to make it to the gardens at least once a month. It is a relaxing place to go and for those that have never been to a botanical garden, I would recommend doing so. The above image is available for purchase [here](https://forms.office.com/r/U7H2tZRrtk) for 2 LRC each.
 
 ## Crypto Wallet
 
-With the blockchain you are able to view all transactions of any wallet. You can view my NFTs and the current savings in my [wallet](https://lexplorer.io/account/155667). The long wallet address is 0xc528acbc94e79aa04c08d108b11af52f21167294 and the ENS is flowers.jacobhuber.eth. 
+With the blockchain you can view all transactions of any wallet. You can view my NFTs and the current savings in my [wallet](https://lexplorer.io/account/155667). The long wallet address is 0xc528acbc94e79aa04c08d108b11af52f21167294 and the ENS is flowers.jacobhuber.eth. 
 
 ## Thank you
 
