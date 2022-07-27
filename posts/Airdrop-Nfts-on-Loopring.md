@@ -13,11 +13,11 @@ If you need to transfer an Nft to many users, then look no further. With the hel
 
 This was written in .NET 6 so you need an IDE that can compile it. I use [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 
-The files [on GitHub](https://github.com/cobmin/LoopringBatchNftTransferDemoSharp) > Code Download ZIP.
+The files [on GitHub](https://github.com/cobmin/LoopringBatchNftTransferDemoSharp) > Code > Download ZIP.
 
 ## How to and Tips
 
-The video gives a good overview and the readme give a bit more detail but here are some more tips.
+The video gives a good overview and the readme give a bit more detail but here are some more tips:
 
 For the API keys you will need 2 from loopring.io under avatar > security > export account and 1 API key from metamask > ... > Account Details > Export Private Key.
 
