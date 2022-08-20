@@ -92,6 +92,18 @@ export default function Layout({ children, home }) {
           />
        </a>  
       </Link>
+      <Link href="https://loopexchange.art/collection/flowers">
+       <a>            
+         <Image
+           priority
+            src="/images/loopexchangeLogo.png"
+            className={utilStyles.borderCircle}
+            height={50}
+            width={50}
+           alt={name}
+          />
+       </a>  
+      </Link>
       <Link href="https://twitch.com/cobmin">
        <a>            
          <Image
