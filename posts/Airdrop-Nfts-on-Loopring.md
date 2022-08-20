@@ -7,7 +7,11 @@ If you need to transfer an Nft to many users, then look no further. With the hel
 
 ## Quick Video Showing How It Works
 
-[![Watch the video](/images/AirdropToolThumbnail.png)](https://youtu.be/RQrqEX8zcpY)  
+[![Watch the video](/images/AirdropToolThumbnail.png)](https://youtu.be/RQrqEX8zcpY)
+
+## Another Video Showing many Nfts dropping to many wallets
+
+[![Watch the video](/images/AirdropToolThumbnail2.png)](https://youtu.be/g11b9PUtTJM)
 
 ## Requirements
 
