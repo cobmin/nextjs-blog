@@ -3,13 +3,14 @@ title: 'LoopDropSharp'
 date: '2022-09-11'
 ---
 
-If you need to perform an airdrop then look no further. LoopDropSharp is your one stop shop to performing airdrops. This application should be in any creator's tool-kit.
+If you need to perform an airdrop then look no further. LoopDropSharp is your one stop shop to performing them. Find wallet holders, airdrop nfts, and more. This application should be in any creator's tool-kit.
 
 ## Download
 
-The best place to start [is here](https://github.com/cobmin/LoopDropSharp/blob/master/README.md).
+The best place to start [is here](https://github.com/cobmin/LoopDropSharp/blob/master/README.md). Download the package and watch the video to get started.
 
-Download the most recent version
+## Videos
+Quick Setup Video: [View on YouTube]()
 
 ## How to and Tips
 
@@ -20,9 +21,6 @@ For the API keys you will need 2 from loopring.io (under avatar > security > exp
 Be sure that you are using the same wallet address for loopring.io and MetaMask/GameStop. Also, be sure that the Nft you want to transfer is in this wallet. 
 
 Wallet addresses can be ENS and/or long wallet address. Just be sure that there is one on each line in the Input.txt.
-
-## Videos
-Setup Video: [View on YouTube]()
 
 ## Older Videos
 Older version setup Video: [View on YouTube](https://youtu.be/Bkl6BwfA6jE)
