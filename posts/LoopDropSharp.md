@@ -10,7 +10,7 @@ If you need to perform an airdrop then look no further. LoopDropSharp is your on
 The best place to start [is here](https://github.com/cobmin/LoopDropSharp/blob/master/README.md). Download the package and watch the video to get started.
 
 ## Videos
-Quick Setup Video: [View on YouTube]()
+Quick Setup Video: [View on YouTube](https://youtu.be/P0EvuxfpCR4)
 
 ## How to and Tips
 
