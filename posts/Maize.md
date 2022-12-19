@@ -10,7 +10,7 @@ If you need to monitor an nft collection or perform an airdrop then look no furt
 The best place to start [is here](https://github.com/cobmin/Maize/blob/main/README.md). Download the package and watch the video to get started.
 
 ## Videos
-Quick Setup Video: [View on YouTube](https://youtu.be/P0EvuxfpCR4)
+Quick Setup Video: [View on YouTube](https://youtu.be/00TY9aHTUuE)
 
 ## How to and Tips
 
