@@ -3,7 +3,8 @@ title: 'Maize'
 date: '2022-12-18'
 ---
 ![](/images/Untitled.png)
-If you need to monitor an nft collection or perform an airdrop then look no further. Maize is your one stop shop to providing analytics and mass transferring Nfts and crypto on Loopring and Imx.
+
+If you need to monitor an nft collection or perform an airdrop then look no further. Maize is your one stop shop to providing analytics and mass transferring Nfts and crypto on Loopring.
 
 ## Download
 

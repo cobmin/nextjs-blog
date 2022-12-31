@@ -3,7 +3,7 @@ title: 'Airdrop Nfts on Loopring'
 date: '2022-08-23'
 ---
 
-Updated information [located here](https://cobmin.io/posts/LoopDropSharp).
+Updated information [located here](https://cobmin.io/posts/Maize).
 
 If you need to transfer an Nft to many users, then look no further. With the help of others, I have a tool that can do this for you. I have used this tool to airdrop hundreds of Nfts for a few creators and have shown others how to use it. I am making a user-friendly version because I think this tool should be in any creator’s tool kit.
 

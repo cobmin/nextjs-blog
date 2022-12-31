@@ -3,6 +3,8 @@ title: 'LoopDropSharp'
 date: '2022-09-11'
 ---
 
+Updated information [located here](https://cobmin.io/posts/Maize).
+
 If you need to perform an airdrop then look no further. LoopDropSharp is your one stop shop to performing them. Find wallet holders, airdrop Nfts, and more. This application should be in any creator's tool kit.
 
 ## Download
