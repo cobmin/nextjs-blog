@@ -92,7 +92,7 @@ export default function Layout({ children, home }) {
           />
        </a>  
       </Link>
-      <Link href="https://loopexchange.art/collection/flowers">
+      <Link href="https://loopexchange.art/collection/maizeorigin">
        <a>            
          <Image
            priority
