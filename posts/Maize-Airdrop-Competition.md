@@ -8,7 +8,7 @@ Maize will be hosting a collaboration Nft airdrop competition throughout 2023. T
 
 ## Prizes
 
-The 13 different Nfts are Maize collaboration pieces with creators that I have enjoyed working with this past year. The Nft reveals will take place throughout January and will be listed [here](https://loopexchange.art/collection/maizeorigin). At the end of each month one Nft will randomly be selected as the monthly collaboration piece which will be the prize for the month. 
+The 13 different Nfts are Maize collaboration pieces with creators that I have enjoyed working with this past year. The Nft reveals will take place throughout January and will be listed [here](https://loopexchange.art/collection/maizecollaboration). At the end of each month one Nft will randomly be selected as the monthly collaboration piece which will be the prize for the month. 
 
 ### Collaboration Creators
 The artists below will be creating the collaboration pieces. All Nfts will be minted by me and I will be putting the artist as the royalty on their own piece. I thank all you for doing this as this competition means a lot to me.
