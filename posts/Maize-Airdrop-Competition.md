@@ -14,7 +14,7 @@ The 13 different Nfts are Maize collaboration pieces with creators that I have e
 The artists below will be creating the collaboration pieces. All Nfts will be minted by me and I will be putting the artist as the royalty on their own piece. I thank all you for doing this as this competition means a lot to me.
 
 Please check them out on twitter.
-[@shortdestroyers](https://twitter.com/shortdestroyers) [@0xgeel](https://twitter.com/0xgeel) [@fudgeyDOTeth](https://twitter.com/fudgeyDOTeth) [@loffyllama](https://twitter.com/loffyllama) [@Ordinary_Adam](https://twitter.com/Ordinary_Adam) [@ocarinalrc](https://twitter.com/ocarinalrc) [@NFTFightingClub](https://twitter.com/NFTFightingClub) [@0xsplush](https://twitter.com/0xsplush) [@ParableNFTs](https://twitter.com/ParableNFTs) [@Fancy_JPEG](https://twitter.com/Fancy_JPEG) [@vinzomniac](https://twitter.com/vinzomniac) [@WagmiWolvesClub](https://twitter.com/WagmiWolvesClub) [@Gnash741](https://twitter.com/Gnash741)
+[@shortdestroyers](https://twitter.com/shortdestroyers) [@0xgeel](https://twitter.com/0xgeel) [@fudgeyDOTeth](https://twitter.com/fudgeyDOTeth) [@loffyllama](https://twitter.com/loffyllama) [@Ordinary_Adam](https://twitter.com/Ordinary_Adam) [@ocarinalrc](https://twitter.com/ocarinalrc) [@NFTFightingClub](https://twitter.com/NFTFightingClub) [@0xsplush](https://twitter.com/0xsplush) [@ParableNFTs](https://twitter.com/ParableNFTs) [@Fancy_JPEG](https://twitter.com/Fancy_JPEG) [@vinzomniac](https://twitter.com/vinzomniac) [@ryank_119](https://twitter.com/ryank_119) [@Gnash741](https://twitter.com/Gnash741)
 
 ## How to enter
 
