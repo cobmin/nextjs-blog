@@ -68,7 +68,7 @@ export default function Layout({ children, home }) {
       )}
       <footer>
       <p>Contact Me:</p>
-      <Link href="https://discord.gg/gKxvUjRpvw">
+      {/* <Link href="https://discord.gg/gKxvUjRpvw">
        <a>            
          <Image
            priority
@@ -79,7 +79,7 @@ export default function Layout({ children, home }) {
            alt={name}
           />
        </a>  
-      </Link>
+      </Link> */}
       <Link href="https://github.com/cobmin">
        <a>            
          <Image
